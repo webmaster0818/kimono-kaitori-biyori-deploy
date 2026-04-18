@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0ve0z207g5iea.css","style"]
+:HL["/_next/static/chunks/00ndt62h9lal9.css","style"]
+:HL["/_next/static/media/68d0ad77fd2c49e3-s.p.0wghyr-.6qbey.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f274a7d773de54c9-s.163vk5zt4o7.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reviews","param":null,"prefetchHints":0,"slots":{"children":{"name":"hikakaku","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WRol9s25pg78Suf7gzJMj"}
