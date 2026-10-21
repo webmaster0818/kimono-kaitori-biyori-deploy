@@ -1,4 +1,0 @@
-:HL["/_next/static/chunks/0jh.rykn~7atu.css","style"]
-:HL["/_next/static/chunks/0g-.pq239lbh~.css","style"]
-:HL["/_next/static/media/68d0ad77fd2c49e3-s.p.0wghyr-.6qbey.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"old-stained-kimono","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9HFFauBtROY00epKTa65P"}
